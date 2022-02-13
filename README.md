@@ -1,6 +1,6 @@
 # Secure the Bag: Diagnosing Food Insecurity in California
 
-[![Streamlit App](https://lh3.googleusercontent.com/pw/AM-JKLVK3nJUmYf8VHU1vZ0uMQ_1wrLqrRh0zBk561yFvcOC4_geTjza7VEXBpdF2GvYx8Nn4xyKenKtMGJbrWdPybv_D_sNVRYpVDfOpqe0XzNJs34fbOzEy0cw-11hq_dqpCTvM0SV6vvVSG_6w_vwf54=w497-h275-no)](https://secure-the-bag-capstone.github.io/project/ "Click to open project website!")
+[![Streamlit App](https://lh3.googleusercontent.com/pw/AM-JKLVK3nJUmYf8VHU1vZ0uMQ_1wrLqrRh0zBk561yFvcOC4_geTjza7VEXBpdF2GvYx8Nn4xyKenKtMGJbrWdPybv_D_sNVRYpVDfOpqe0XzNJs34fbOzEy0cw-11hq_dqpCTvM0SV6vvVSG_6w_vwf54=w497-h275-no)](https://share.streamlit.io/jeffry-zheng/210-capstone/main/streamlit_app/securethebag.py "Click to open project website!")
 
 _“Call me old-fashioned, but I think ending poverty and hunger on Earth is more important than colonizing Mars.“ - Robert Reich_
 
